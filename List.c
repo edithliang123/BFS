@@ -1,9 +1,3 @@
-/************************************
- * Yixin Liang, yliang43
- * 2019 Summer CMPS101 PA1
- * List.c
- * Create List ADT
- ***********************************/
 #include "List.h"
 #include<stdio.h>
 #include<stdlib.h>

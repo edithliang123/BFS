@@ -1,0 +1,33 @@
+/*******************************
+ * Yixin Liang, yliang43
+ * 2019 Summer CMPS101 PA3
+ * README
+ * brief description of the project
+ *******************************/
+
+List.h
+- headers for List ADT, a module of the operation of the List type
+
+List.c
+- define each operation of the List type, creates a doubly linked list
+
+Graph.h
+- headers for Graph ADT, a module of the operation of the Graph type
+
+Graph.c
+- define each operation of the Graph type, creates empty Graphs
+
+GraphTest.c
+- test each function of the Graph ADT to see if it runs correctly and without memory leaks
+
+FindPath.c
+- This program reads inputs from the input file and creates an undirected graph or directed graph based on inputs. Then run BFS to find the shorest path from certain source to certain vertice.
+
+Makefile
+- Creates executable binary files for FindPath.c
+
+README
+- Gives a brief description of the project
+
+
+
